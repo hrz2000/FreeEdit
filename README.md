@@ -15,8 +15,6 @@ Si Liu
 [![arXiv](https://img.shields.io/badge/ArXiv-2409.18071-brightgreen)](https://arxiv.org/abs/2409.18071)
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://freeedit.github.io/)
 
----
-
 <!-- <div align="center"> -->
 <!-- <img src="./assets/task.png"> -->
 <!-- <i> Comparison between mask-based paradigm and mask-free paradigm, the former requires the user to provide the source mask to specify the editing area, while the latter conditions the diffusion model with language instructions, without the need for the masks. Reference-based inpainting conditions the model on reference image embedding, no longer supporting natural language. We use multi-modal instruction to introduce reference image features while still retaining the perception of natural language. </i> -->
@@ -28,7 +26,6 @@ Si Liu
 - [2024/3/12] Code released.
 - [2023/12/4] Paper is available [here](https://arxiv.org/abs/2312.01663). -->
 
----
 
 ## Introduction
 
